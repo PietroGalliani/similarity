@@ -1,0 +1,6 @@
+1	1	\N	1	\N	1	\N
+23	\N	\N	\N	\N	\N	\N
+24	\N	\N	\N	\N	\N	1
+25	1	\N	\N	\N	\N	\N
+26	\N	\N	\N	\N	\N	\N
+27	\N	\N	\N	\N	\N	\N
