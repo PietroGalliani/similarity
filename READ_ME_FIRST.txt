@@ -1,4 +1,6 @@
-INSTALLATION NOTES
+AN ADAPTIVE SEMANTIC SIMILARITY MEASURE OVER THE GENE ONTOLOGY
+
+See the file notes.pdf for an extensive discussion of this approach and of its results.
 
 Because of upload size limitations, the data has been split into parts and separated from the code and the generated data has not been included.
 
