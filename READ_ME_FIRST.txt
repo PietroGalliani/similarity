@@ -1,3 +1,7 @@
+AN ADAPTIVE SEMANTIC SIMILARITY MEASURE OVER THE GENE ONTOLOGY
+
+See the file notes.pdf for an extensive discussion of this approach and of its results.
+
 Because of upload size limitations, the data has been split into parts and separated from the code and the generated data has not been included.
 
 To run the code, first set the name of the mySql database (which must already exist) and the user name and password for it in the file myConstants.py. Then build the database and perform the preprocessing calling the function prepareAll() in the file logsim.py.
